@@ -14,6 +14,7 @@
     <command idMso="FileSave" getEnabled="GetEnabled" />
     <command idMso="HistoryTab" getEnabled="GetEnabled" />
     <command idMso="FileClose" getEnabled="GetEnabled" />
+    <command idMso="TabShare" enabled="false" />
   </commands>
   <ribbon startFromScratch="true">
     <tabs>
