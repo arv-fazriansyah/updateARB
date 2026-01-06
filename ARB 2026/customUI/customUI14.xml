@@ -354,6 +354,11 @@
                       label="RKT" 
                       imageMso="FillDown" 
                       onAction="RKT" />
+              <button id="ADART" 
+                      getVisible="GetVisible"   
+                      label="AD/ART" 
+                      imageMso="FillDown" 
+                      onAction="DataADART" />
               <button id="Optionals" 
                       getVisible="GetVisible"   
                       getLabel="GetLabel" 
